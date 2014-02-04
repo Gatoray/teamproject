@@ -1,10 +1,10 @@
 teamproject
 ===========
 
-Kyle Yount
+* Kyle Yount
 
-Edward Kim
+* Edward Kim
 
-Renita Priya
+* Renita Priya
 
 CSCI 450 Software Development
