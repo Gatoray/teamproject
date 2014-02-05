@@ -7,4 +7,6 @@ teamproject
 
 * Renita Priya
 
+* Jathniel Manahan
+
 CSCI 450 Software Development
