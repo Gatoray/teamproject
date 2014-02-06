@@ -10,3 +10,5 @@ teamproject
 * Jathniel Manahan
 
 CSCI 450 Software Development
+
+http://htmlpreview.github.io/?https://github.com/Gatoray/teamproject/blob/master/index.html
